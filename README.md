@@ -1,9 +1,17 @@
 # Leetcode-Dataset
 
-hello guys!
+LeetCode Dataset Collection
 
-i am trying to make a leetcode contest rating predictor model using linear regression, but for that i want a lot of data set
-and i invite you to give your profile data for comma seperated file.
+Hello everyone!
 
-submit here:
+I am working on a project to create a LeetCode contest rating predictor model using linear regression. To achieve this, I need a substantial dataset, and I invite you to contribute your profile data.
+
+Please submit your data in a comma-separated file using the following form: Submit Here:
+
 https://docs.google.com/forms/d/e/1FAIpQLSca7dBqt7i8haQtfbNHq2Zk6nxSDythrHqOYF0esYH2f83uVA/viewform?usp=sf_link
+
+For more details, visit our GitHub repository:
+
+https://github.com/ujjwalvishwakarma2006/Leetcode-Dataset
+
+Thank you for your contribution!
